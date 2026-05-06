@@ -1,19 +1,32 @@
-Visual Muse Web Application
+# My Projects
 
- Description
-This project is a web-based application developed during my internship. It allows users to generate and explore visual content through an interactive and user-friendly interface.
+## Description
+ICT graduate specializing in Application Development, with a strong interest in building practical and user-friendly digital solutions.
 
  Features
 - User-friendly interface
 - Custom input options
 - Dynamic visual content generation
 
-Live Demo
-[View Application](https://visual-muse--thulilephoswa.replit.app)
+### 1. Visual Muse Web Application
+A web-based application designed to generate and display visual content through an interactive interface.  
+🔗 [View Project](https://visual-muse--thulilephoswa.replit.app)
 
-Technologies Used
-- HTML
-- CSS
-- JavaScript
- Author
+### 2. AI Chatbot Web Application
+An interactive chatbot application developed using Botpress, designed to simulate conversations and assist users through automated responses.  
+🔗 [View Project](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/04/30/11/20260430112745-8X2GOGYA.json)
+
+---
+
+
+## Skills
+- HTML  
+- CSS  
+- JavaScript  
+- Problem Solving  
+- Application Development  
+
+
+---
+## Author
 Thulile Phoswa
